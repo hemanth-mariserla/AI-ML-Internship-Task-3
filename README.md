@@ -2,7 +2,7 @@
 # Task 3 - Linear Regression (AI & ML Internship)
 
 ## Objective:
-Implement and understand simple & multiple linear regression on the Housing Price Prediction dataset.
+Implement and understand simple & multiple linear regression on the House Price Prediction dataset.
 
 ## Tools Used:
 - Pandas
