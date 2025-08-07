@@ -20,4 +20,5 @@ Implement and understand simple & multiple linear regression on the Housing Pric
 - MAE: 970043.4039201637
 - MSE: 1754318687330.6628
 - R² Score: 0.6529242642153186
-
+## Visualization
+<img width="640" height="480" alt="Visualization" src="https://github.com/user-attachments/assets/ce3a3890-9a95-4d9f-953f-787e3d354acf" />
